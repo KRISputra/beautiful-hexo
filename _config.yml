@@ -6,10 +6,14 @@ navbar-links:
 
 jawatankuasa-links:
     Jawatankuasa KRISPutra Sesi 2017-2018: /jawatankuasa/
+    Pengerusi       : /jawatankuasa/pengerusi/
+    Setiausaha Kehormat : /jawatankuasa/setiausaha/
+    Bendahari Kehormat : /jawatankuasa/bendahari/
     Biro Agama      : /jawatankuasa/biro-agama/
     Biro Ekonomi    : /jawatankuasa/biro-ekonomi/
     Biro Pendidikan : /jawatankuasa/biro-pendidikan/
     Biro Rekreasi   : /jawatankuasa/biro-rekreasi/
+    Biro Seranta    : /jawatankuasa/biro-seranta/
     Biro Sukan      : /jawatankuasa/biro-sukan/
     Biro Kebajikan  : /jawatankuasa/biro-kebajikan/
     Biro Kebudayaan : /jawatankuasa/biro-kebudayaan/
@@ -26,6 +30,8 @@ header:
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
         - src: https://c4.staticflickr.com/6/5756/30628726243_f1fda12908_h.jpg
           desc: Ibadah Korban PPj 1437H/2016M
+        - src: https://scontent.xx.fbcdn.net/v/t31.0-8/13497788_10210128836206467_8528789213856359750_o.jpg?oh=d39064d5622c404abfa627b22a2a7ab7&oe=58AE89C0
+          desc: Hari Keluarga KRISPutra 2016
         - src: https://c7.staticflickr.com/6/5746/31066850110_0ed0cd281d_h.jpg
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
         - src: https://c4.staticflickr.com/6/5613/30628725723_d23a58f52a_h.jpg
