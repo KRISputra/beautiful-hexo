@@ -1,21 +1,25 @@
 navbar-links:
-    Archive: /archives
-    Github: https://github.com/twoyao/beautiful-hexo
-    About: /about/
+    Arkib: /archives
+    Aktiviti: /aktiviti/
+    Galeri: /galeri/
+    Mengenai: /mengenai/
 
-avatar: /hexo.png
-favicon: /hexo.png
+avatar: /krisputra.png
+favicon: /krisputra.png
+pengerusi: /azizipic.jpg
 
 header:
-    title: "Beautiful Hexo"
-    motto: Build a beautiful and simple website in minutes
+    title: "KRISPutra"
+    motto: Kelab Sukan, Rekreasi dan Kebajikan Perbadanan Putrajaya
     bigimgs:
-        - src: /bigimgs/01.jpg
-          desc: beautiful island
-        - src: /bigimgs/02.jpg
-          desc: Tropical Fish
-        - src: /bigimgs/03.jpg
-          desc: ocean
+        - src: https://c3.staticflickr.com/6/5531/31066849410_285457eb52_h.jpg
+          desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
+        - src: https://c4.staticflickr.com/6/5756/30628726243_f1fda12908_h.jpg
+          desc: Ibadah Korban PPj 1437H/2016M
+        - src: https://c7.staticflickr.com/6/5746/31066850110_0ed0cd281d_h.jpg
+          desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
+        - src: https://c4.staticflickr.com/6/5613/30628725723_d23a58f52a_h.jpg
+          desc: Ibadah Korban PPj 1437H/2016M
 
 rss: /atom.xml
 googlefonts:
@@ -30,17 +34,17 @@ highlight:
 
 footer:
   facebook:
-    link: # your link e.g. https://...
+    link: 'https://www.facebook.com/groups/krisputra/'
     title: Facebook
     icon: fa-facebook
-    enalbe: false
+    enalbe: true
   weibo:
     link: 'http://weibo.com/bisyao?is_all=1'
     title: Weibo
     icon: fa-weibo
-    enalbe: true
+    enalbe: false
   github:
-    link: 'https://github.com/twoyao'
+    link: 'https://github.com/krisputra'
     title: GitHub
     icon: fa-github
     enable: true
@@ -53,9 +57,9 @@ footer:
     link: 'https://twitter.com/twoyao_'
     title: Twitter
     icon: fa-twitter
-    enable: true
+    enable: false
   mail:
-    link: 'mailto:bisyao@gmail.com'
+    link: 'mailto:krisputra@ppj.my'
     title: Email me
     icon: fa-envelope
     enable: true
@@ -73,6 +77,6 @@ footer:
 google_analytics:
 
 comment:
-  enable: true
+  enable: false
   disqus: twoyao
 
