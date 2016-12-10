@@ -4,6 +4,16 @@ navbar-links:
     Galeri: /galeri/
     Mengenai: /mengenai/
 
+jawatankuasa-links:
+    Jawatankuasa KRISPutra Sesi 2017-2018: /jawatankuasa/
+    Biro Agama      : /jawatankuasa/biro-agama/
+    Biro Ekonomi    : /jawatankuasa/biro-ekonomi/
+    Biro Pendidikan : /jawatankuasa/biro-pendidikan/
+    Biro Rekreasi   : /jawatankuasa/biro-rekreasi/
+    Biro Sukan      : /jawatankuasa/biro-sukan/
+    Biro Kebajikan  : /jawatankuasa/biro-kebajikan/
+    Biro Kebudayaan : /jawatankuasa/biro-kebudayaan/
+
 avatar: /krisputra.png
 favicon: /krisputra.png
 pengerusi: /azizipic.jpg

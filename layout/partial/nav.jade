@@ -12,6 +12,13 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-custom
                 each value, key in theme["navbar-links"]
                     li
                         a(href=url_for(value))!= key
+                li.dropdown 
+                    a(class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/jawatankuasa/")="Jawatankuasa"
+                        span.caret
+                    ul.dropdown-menu
+                        each value, key in theme["jawatankuasa-links"]
+                            li
+                                a(href=url_for(value))!= key
         .avatar-container
             .avatar-img-border
                 a(href=url_for())
