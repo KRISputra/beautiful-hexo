@@ -26,11 +26,17 @@ header:
     title: "KRISPutra"
     motto: Kelab Sukan, Rekreasi dan Kebajikan Perbadanan Putrajaya
     bigimgs:
+        - src: https://c3.staticflickr.com/1/504/30841754314_3a7cef80fb_b.jpg
+          desc: Majlis Tilawah Al-Quran Kanak-kanak 2016
+        - src: https://c8.staticflickr.com/1/362/30872270583_a841de5a9f_b.jpg
+          desc: Anugerah Pelajar Cemerlang 2015/2016
         - src: https://c3.staticflickr.com/6/5531/31066849410_285457eb52_h.jpg
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
         - src: https://c4.staticflickr.com/6/5756/30628726243_f1fda12908_h.jpg
           desc: Ibadah Korban PPj 1437H/2016M
-        - src: https://scontent.xx.fbcdn.net/v/t31.0-8/13497788_10210128836206467_8528789213856359750_o.jpg?oh=d39064d5622c404abfa627b22a2a7ab7&oe=58AE89C0
+        - src: https://c5.staticflickr.com/6/5594/31645918756_5888724a86_b.jpg
+          desc: Hari Keluarga KRISPutra 2016
+        - src: https://c6.staticflickr.com/1/366/31682815205_4b8b36a371_b.jpg
           desc: Hari Keluarga KRISPutra 2016
         - src: https://c7.staticflickr.com/6/5746/31066850110_0ed0cd281d_h.jpg
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
@@ -53,7 +59,7 @@ footer:
     link: 'https://www.facebook.com/groups/krisputra/'
     title: Facebook
     icon: fa-facebook
-    enalbe: true
+    enable: true
   weibo:
     link: 'http://weibo.com/bisyao?is_all=1'
     title: Weibo
