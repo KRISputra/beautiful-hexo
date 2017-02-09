@@ -1,8 +1,8 @@
 navbar-links:
-    Arkib: /archives
     Aktiviti: /aktiviti/
+    Arkib: /archives
     Galeri: /galeri/
-    Mengenai: /mengenai/
+    Hubungi Kami: /hubungi/
 
 jawatankuasa-links:
     Jawatankuasa KRISPutra Sesi 2016-2018: /jawatankuasa/
@@ -28,21 +28,21 @@ header:
     title: "KRISPutra"
     motto: Kelab Sukan, Rekreasi dan Kebajikan Perbadanan Putrajaya
     bigimgs:
-        - src: https://c3.staticflickr.com/1/504/30841754314_3a7cef80fb_b.jpg
+        - src: /bigimgs/308417543143a7cef80fbb.jpg
           desc: Majlis Tilawah Al-Quran Kanak-kanak 2016
-        - src: https://c8.staticflickr.com/1/362/30872270583_a841de5a9f_b.jpg
+        - src: /bigimgs/30872270583a841de5a9fb.jpg
           desc: Anugerah Pelajar Cemerlang 2015/2016
-        - src: https://c3.staticflickr.com/6/5531/31066849410_285457eb52_h.jpg
+        - src: /bigimgs/31066849410285457eb52h.jpg
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
-        - src: https://c4.staticflickr.com/6/5756/30628726243_f1fda12908_h.jpg
+        - src: /bigimgs/30628726243f1fda12908h.jpg
           desc: Ibadah Korban PPj 1437H/2016M
-        - src: https://c5.staticflickr.com/6/5594/31645918756_5888724a86_b.jpg
+        - src: /bigimgs/316459187565888724a86b.jpg
           desc: Hari Keluarga KRISPutra 2016
-        - src: https://c6.staticflickr.com/1/366/31682815205_4b8b36a371_b.jpg
+        - src: /bigimgs/316828152054b8b36a371b.jpg
           desc: Hari Keluarga KRISPutra 2016
-        - src: https://c7.staticflickr.com/6/5746/31066850110_0ed0cd281d_h.jpg
+        - src: /bigimgs/310668501100ed0cd281dh.jpg
           desc: Majlis Doa Selamat bagi bakal Haji warga PPj 1437H/2016M
-        - src: https://c4.staticflickr.com/6/5613/30628725723_d23a58f52a_h.jpg
+        - src: /bigimgs/30628725723d23a58f52ah.jpg
           desc: Ibadah Korban PPj 1437H/2016M
 
 rss: /atom.xml
